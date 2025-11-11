@@ -1,0 +1,31 @@
+⚙️ Quick Summary — All in One - If you want to do everything in one go (Python + Tkinter + C++ + Java):
+sudo apt update
+sudo apt install python3 python3-tk g++ default-jdk -y
+
+🐍 Install Python (with Tkinter included)
+sudo apt update
+sudo apt install python3 python3-tk -y
+
+After install, verify with:
+python3 --version
+python3 -m tkinter
+
+💻 Install C++ Compiler (for C++ programs)
+sudo apt install g++ -y
+
+Verify installation:
+g++ --version
+
+To compile and run:
+g++ filename.cpp -o output
+./output
+
+☕ Install Java 
+sudo apt install default-jdk -y
+
+Verify:
+java --version
+
+To compile and run:
+javac MyProgram.java
+java MyProgram

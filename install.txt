@@ -10,6 +10,9 @@ After install, verify with:
 python3 --version
 python3 -m tkinter
 
+To run:
+python3 filename.py
+
 💻 Install C++ Compiler (for C++ programs)
 sudo apt install g++ -y
 
@@ -29,3 +32,9 @@ java --version
 To compile and run:
 javac MyProgram.java
 java MyProgram
+
+Viva HCI:
+https://chatgpt.com/share/691372b1-2bd0-8008-bffb-8840bcf4dd28
+
+Viva SPOS:
+https://chatgpt.com/share/69137c45-438c-800b-b7b2-1c2d22b855cf
